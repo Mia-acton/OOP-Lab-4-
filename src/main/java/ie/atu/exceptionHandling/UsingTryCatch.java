@@ -18,7 +18,7 @@ public class UsingTryCatch {
             System.out.println("You entered " + myNum);
         }
         else {
-            System.out.println("Not a valid number.");
+            System.out.println("Not a valid number!");
         }
     }
 

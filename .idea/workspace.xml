@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cb8c98e-a281-470a-8ae9-a9cf3cda9dcb" name="Changes" comment="New Project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/exceptionHandling/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="2cb8c98e-a281-470a-8ae9-a9cf3cda9dcb" name="Changes" comment="Pushing files to git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +58,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/miaab/IdeaProjects/UsingTryCatch/src/main/java/ie/atu/exceptionHandling/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730396391639</updated>
-      <workItem from="1730396392600" duration="1107000" />
+      <workItem from="1730396392600" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="New Project">
       <option name="closed" value="true" />
@@ -90,7 +88,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730397050939</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added new code to verify if a number is between 1 and 9 and print an error message to the user if the number is outside this specified range">
+      <option name="closed" value="true" />
+      <created>1730397650752</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730397650752</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pushing files to git">
+      <option name="closed" value="true" />
+      <created>1730397726962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730397726962</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +135,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Project" />
+    <MESSAGE value="Added new code to verify if a number is between 1 and 9 and print an error message to the user if the number is outside this specified range" />
+    <MESSAGE value="Pushing files to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing files to git" />
   </component>
 </project>
